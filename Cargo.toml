@@ -1,0 +1,9 @@
+[package]
+name = "loom-weave"
+version = "0.1.0"
+edition = "2021"
+description = "Thread-based composition patterns with warp, weft, shed, and heddle for woven data structures"
+repository = "https://github.com/SuperInstance/loom-weave"
+license = "MIT"
+
+[dev-dependencies]
